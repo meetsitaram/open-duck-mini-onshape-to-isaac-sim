@@ -1,0 +1,167 @@
+onshape-to-robot open-duck-mini
+* Using configuration workspace ID 0073f93443d0e6a96f65edad ...
+* Using configuration element ID 6a071f622c7f4590d867b875 ...
+* Retrieving assembly with id 6a071f622c7f4590d867b875
++ Found DOF: left_hip_yaw (revolute) [-0.524: 0.524]
++ Found DOF: left_hip_roll (revolute) [-0.436: 0.436]
++ Found DOF: left_hip_pitch (revolute) [-1.222: 0.524]
++ Found DOF: left_knee (revolute) [-1.571: 1.571]
++ Found DOF: left_ankle (revolute) [-1.571: 1.571]
++ Found DOF: neck_pitch (revolute) [-0.349: 1.134]
++ Found DOF: head_pitch (revolute) [-0.785: 0.785]
++ Found DOF: head_yaw (revolute) [-2.793: 2.793]
++ Found DOF: head_roll (revolute) [-0.524: 0.524]
++ Found DOF: right_hip_yaw (revolute) [-0.524: 0.524]
++ Found DOF: right_hip_roll (revolute) [-0.436: 0.436]
++ Found DOF: right_hip_pitch (revolute) [-0.524: 1.222]
++ Found DOF: right_knee (revolute) [-1.571: 1.571]
++ Found DOF: right_ankle (revolute) [-1.571: 1.571]
+* Found total 14 degrees of freedom
+* Found 1 root nodes:
+  - trunk_assembly <1>
+
++ Adding part body_front <1>
++ Adding part usb_c_charger <1>
++ Adding part body_back <1>
++ Adding part body_middle_bottom <1>
++ Adding part power_switch <1>
++ Adding part bms <1>
++ Adding part battery_pack_lid <1>
++ Adding part body_middle_top <1>
++ Adding part BNO055 <1>
++ Adding part roll_bearing <2>
++ Adding part trunk_bottom <1>
++ Adding part trunk_top <1>
++ Adding part Board <1>
++ Adding part roll_bearing <1>
++ Adding part cell <1>
++ Adding part holder <1>
++ Adding part cell <2>
++ Adding part WJ-WK00-0123MIDDLECASE_56 <1>
++ Adding part drive_palonier <1>
++ Adding part WJ-WK00-0124BOTTOMCASE_45 <1>
++ Adding part WJ-WK00-0122TOPCABINETCASE_95 <1>
++ Adding part passive_palonier <1>
++ Adding part WJ-WK00-0123MIDDLECASE_56 <1>
++ Adding part drive_palonier <1>
++ Adding part WJ-WK00-0124BOTTOMCASE_45 <1>
++ Adding part WJ-WK00-0122TOPCABINETCASE_95 <1>
++ Adding part passive_palonier <1>
++ Adding part WJ-WK00-0123MIDDLECASE_56 <1>
++ Adding part drive_palonier <1>
++ Adding part WJ-WK00-0124BOTTOMCASE_45 <1>
++ Adding part WJ-WK00-0122TOPCABINETCASE_95 <1>
++ Adding part passive_palonier <1>
++ Adding part roll_motor_bottom <1>
++ Adding part roll_motor_top <1>
++ Adding part WJ-WK00-0123MIDDLECASE_56 <1>
++ Adding part drive_palonier <1>
++ Adding part WJ-WK00-0124BOTTOMCASE_45 <1>
++ Adding part WJ-WK00-0122TOPCABINETCASE_95 <1>
++ Adding part passive_palonier <1>
++ Adding part left_roll_to_pitch <1>
++ Adding part WJ-WK00-0123MIDDLECASE_56 <1>
++ Adding part drive_palonier <1>
++ Adding part WJ-WK00-0124BOTTOMCASE_45 <1>
++ Adding part WJ-WK00-0122TOPCABINETCASE_95 <1>
++ Adding part passive_palonier <1>
++ Adding part left_cache <1>
++ Adding part leg_spacer <1>
++ Adding part left_knee_to_ankle_right_sheet <1>
++ Adding part left_knee_to_ankle_left_sheet <1>
++ Adding part WJ-WK00-0123MIDDLECASE_56 <1>
++ Adding part drive_palonier <1>
++ Adding part WJ-WK00-0124BOTTOMCASE_45 <1>
++ Adding part WJ-WK00-0122TOPCABINETCASE_95 <1>
++ Adding part passive_palonier <1>
++ Adding part leg_spacer <1>
++ Adding part left_knee_to_ankle_right_sheet <1>
++ Adding part left_knee_to_ankle_left_sheet <1>
++ Adding part WJ-WK00-0123MIDDLECASE_56 <1>
++ Adding part drive_palonier <1>
++ Adding part WJ-WK00-0124BOTTOMCASE_45 <1>
++ Adding part WJ-WK00-0122TOPCABINETCASE_95 <1>
++ Adding part passive_palonier <1>
++ Adding part foot_side <1>
++ Adding part foot_bottom_tpu <1>
++ Adding part foot_bottom_pla <1>
++ Adding part foot_top <1>
++ Adding part neck_left_sheet <1>
++ Adding part neck_right_sheet <1>
++ Adding part WJ-WK00-0123MIDDLECASE_56 <1>
++ Adding part drive_palonier <1>
++ Adding part WJ-WK00-0124BOTTOMCASE_45 <1>
++ Adding part WJ-WK00-0122TOPCABINETCASE_95 <1>
++ Adding part passive_palonier <1>
++ Adding part head_pitch_to_yaw <1>
++ Adding part head_yaw_to_roll <1>
++ Adding part WJ-WK00-0123MIDDLECASE_56 <1>
++ Adding part drive_palonier <1>
++ Adding part WJ-WK00-0124BOTTOMCASE_45 <1>
++ Adding part WJ-WK00-0122TOPCABINETCASE_95 <1>
++ Adding part passive_palonier <1>
++ Adding part right_antenna_holder <1>
++ Adding part antenna <2>
++ Adding part antenna <1>
++ Adding part left_antenna_holder <1>
++ Adding part Cam <1>
++ Adding part head_bot_sheet <1>
++ Adding part head <1>
++ Adding part flash_reflector_interface <2>
++ Adding part bulb <1>
++ Adding part glass <3>
++ Adding part head_roll_mount <1>
++ Adding part RaspberryPiZeroW <1>
++ Adding part left_eye <1>
++ Adding part flash_light_module <2>
++ Adding part full_speaker <1>
++ Adding part roll_bearing <1>
++ Adding part sg90 <2>
++ Adding part glass <1>
++ Adding part sg90 <1>
++ Adding part bulb <2>
++ Adding part speaker_interface <1>
++ Adding part speaker_stand <1>
++ Adding part right_eye <1>
++ Adding part glass <4>
++ Adding part glass <2>
++ Adding part WJ-WK00-0123MIDDLECASE_56 <1>
++ Adding part drive_palonier <1>
++ Adding part WJ-WK00-0124BOTTOMCASE_45 <1>
++ Adding part WJ-WK00-0122TOPCABINETCASE_95 <1>
++ Adding part passive_palonier <1>
++ Adding part roll_motor_bottom <1>
++ Adding part roll_motor_top <1>
++ Adding part WJ-WK00-0123MIDDLECASE_56 <1>
++ Adding part drive_palonier <1>
++ Adding part WJ-WK00-0124BOTTOMCASE_45 <1>
++ Adding part WJ-WK00-0122TOPCABINETCASE_95 <1>
++ Adding part passive_palonier <1>
++ Adding part right_roll_to_pitch <1>
++ Adding part WJ-WK00-0123MIDDLECASE_56 <1>
++ Adding part drive_palonier <1>
++ Adding part WJ-WK00-0124BOTTOMCASE_45 <1>
++ Adding part WJ-WK00-0122TOPCABINETCASE_95 <1>
++ Adding part passive_palonier <1>
++ Adding part right_cache <1>
++ Adding part leg_spacer <1>
++ Adding part left_knee_to_ankle_right_sheet <1>
++ Adding part left_knee_to_ankle_left_sheet <1>
++ Adding part WJ-WK00-0123MIDDLECASE_56 <1>
++ Adding part drive_palonier <1>
++ Adding part WJ-WK00-0124BOTTOMCASE_45 <1>
++ Adding part WJ-WK00-0122TOPCABINETCASE_95 <1>
++ Adding part passive_palonier <1>
++ Adding part leg_spacer <1>
++ Adding part left_knee_to_ankle_right_sheet <1>
++ Adding part left_knee_to_ankle_left_sheet <1>
++ Adding part WJ-WK00-0123MIDDLECASE_56 <1>
++ Adding part drive_palonier <1>
++ Adding part WJ-WK00-0124BOTTOMCASE_45 <1>
++ Adding part WJ-WK00-0122TOPCABINETCASE_95 <1>
++ Adding part passive_palonier <1>
++ Adding part foot_side <1>
++ Adding part foot_bottom_tpu <1>
++ Adding part foot_bottom_pla <1>
++ Adding part foot_top <1>
+* Writing robot.urdf
